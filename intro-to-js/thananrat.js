@@ -1,4 +1,4 @@
-function asMyName() {
+function askMyName() {
     const name = prompt("What is your name"); // เรียกใช้คำสั่ง prompt เพื่อถามชื่อ https://www.w3schools.com/jsref/met_win_prompt.asp
 
     if (name != null) {
